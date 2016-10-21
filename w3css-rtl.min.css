@@ -1,0 +1,8 @@
+/*
+ *	W3.CSS RTL
+ *	right-to-left languages support for W3.CSS framework
+ *	Hamid Samak
+ *	https://github.com/hamidsamak/w3css-rtl
+ */
+
+body{direction:rtl}.w3-closebtn{float:left}.w3-col,.w3-half,.w3-third,.w3-twothird,.w3-threequarter,.w3-quarter{float:right}ul.w3-ul li{padding:6px 16px 6px 2px}.w3-table th:first-child,.w3-table td:first-child,.w3-table-all th:first-child,.w3-table-all td:first-child{padding-left:8px;padding-right:16px}.w3-table td,.w3-table th,.w3-table-all td,.w3-table-all th{text-align:right}.w3-navbar li{float:right}
