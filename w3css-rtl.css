@@ -44,3 +44,7 @@ ul.w3-ul li {
 .w3-navbar li {
 	float: right;
 }
+
+.w3-ltr {
+	direction: ltr;
+}
